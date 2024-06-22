@@ -20,6 +20,13 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/isawesom3/duck9000** and click import
 
+## How to play
+
+Its basicly like a maze.
+guide your avatar through the maze -but
+beware:you only have 10 seconds!
+![Screenshot 2024-06-22 5 24 46 PM](https://github.com/isawesom3/Duck9000/assets/173570795/fc54a776-3989-41c6-8baf-25ceb3672f8e)
+
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
